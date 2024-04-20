@@ -9,5 +9,8 @@
 
 [![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihakbass)](https://github.com/salihakbass/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihakbass)](https://github.com/salihakbass/github-readme-stats)
+
+
 
 
